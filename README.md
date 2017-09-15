@@ -1,2 +1,2 @@
 # salesforce-R-NGO
-Análise de dados para terceiro setor com sf
+Relatórios básicos para ONGs que utilizam SalesForce para gestão de doações
